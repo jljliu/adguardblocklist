@@ -1,0 +1,23 @@
+# unblock paramount plus
+@@||int.dewrain.site^$important
+@@||saa.paramountplus.com^$important
+@@||int.dewrain.life^$important
+@@||ceres.iad-03.braze.com^$important
+@@||sb.scorecardresearch.com^$important
+@@||int.vaicore.site^$important
+@@||api2.branch.io^$important
+@@||cdn.branch.io^$important
+@@||int.akisinn.info^$important
+@@||co.dewrain.site^$important
+@@||paramountplus.com.data.adobedc.net^$important
+@@||cbsinteractive.data.adobedc.net^$important
+@@||tags.tiqcdn.com^$important
+# Block Google DNS
+||dns.google^$important
+
+# Block Spotify ads
+# Required to load music
+# ||guc3-spclient.spotify.com^$important 
+||i.scdn.co^$important
+||audio4-ak-spotify-com.akamaized.net^$important
+||spclient.wg.spotify.com^$important
