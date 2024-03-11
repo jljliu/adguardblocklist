@@ -18,6 +18,6 @@
 # Block Spotify ads
 # Required to load music
 # ||guc3-spclient.spotify.com^$important 
-||i.scdn.co^$important
+# ||i.scdn.co^$important
 ||audio4-ak-spotify-com.akamaized.net^$important
 # ||spclient.wg.spotify.com^$important
