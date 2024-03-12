@@ -20,11 +20,12 @@
 # ||guc3-spclient.spotify.com^$important 
 # ||i.scdn.co^$important
 # ||scdnco.spotify.map.fastly.net^$important
+# ||audio-ak-spotify-com.akamaized.net^$important
 
 # ||spclient.wg.spotify.com^$important important spotify functions
 # ||a2047.dscapi9.akamai.net^$important weather data
 
-||audio-ak-spotify-com.akamaized.net^$important
+
 ||video-fa.scdn.co^$important
 ||canvaz.scdn.co^$important
 ||audio4-ak-spotify-com.akamaized.net^$important
